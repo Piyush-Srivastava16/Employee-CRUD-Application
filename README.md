@@ -30,7 +30,7 @@ This project demonstrates how to build a full-stack backend-driven web applicati
 ---
 
 ## 📁 Project Structure
-
+```
 com.example.employeeCrud
 │
 ├── controller
@@ -58,7 +58,7 @@ src/main/resources
 │   └── update_employee.html
 │
 └── application.properties
-
+```
 ---
 
 ## 🧩 Application Flow
