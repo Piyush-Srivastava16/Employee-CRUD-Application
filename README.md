@@ -27,6 +27,7 @@ This project demonstrates how to build a full-stack backend-driven web applicati
 - Architecture: MVC (Model–View–Controller)  
 - Build Tool: Maven  
 
+
 ---
 
 ## 📁 Project Structure
