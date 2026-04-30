@@ -1,4 +1,4 @@
-# 👨‍💼 Employee CRUD Application
+#  Employee CRUD Application
 
 A simple Spring Boot web application for managing employee records using CRUD operations (Create, Read, Update, Delete) with a clean MVC architecture and Thymeleaf-based UI.
 
